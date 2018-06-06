@@ -51,4 +51,26 @@
     
   </entry>
   
+  <entry>
+    <title>Python数据分析基本环境搭建（mac）</title>
+    <link href="http://yoursite.com/2018/05/30/python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    <id>http://yoursite.com/2018/05/30/python数据分析/</id>
+    <published>2018-05-30T14:29:16.847Z</published>
+    <updated>2018-06-06T15:31:55.206Z</updated>
+    
+    <content type="html"><![CDATA[<p>在使用Python进行数据分析的过程中，我们一般会使用到的一些科学计算库有：Numpy，Scipy、matplotlib（用于生成图表），还有Ipython工具等。</p><p>我们可以在自己的机器上一个个安装这些库，也可以直接安装EPDFree(Enthought Python Distribution),这是一个包含了所有这些科学计算库的包。直接安装可以避免很多环境及版本差异导致的问题。</p><p>安装之前请确保已经安装路Xcode<br>安装步骤：<br>1、启动终端输入<br><code>$gcc -v</code>会出现”Configured with…”的信息，则表示Xcode安装成功<br>2、安装Cnopy(以前叫EPDFree）,下载<a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">dmg文件</a>，双击进行安装。<br>安装完之后基本环境就ok了.</p><p>现在Cnopy相对于EPDFree来说包含的包更完善了，安装完后连ipython都直接集成在里面了，可以直接进行数据分析，省掉了很多环境配置的麻烦。点击下图Editor就可以进入ipython环境<br><img src="http://7xlkn1.com1.z0.glb.clouddn.com/2018-06-06_23-09-23.png" alt="avatar"></p><p>至此，可以开始分析工作了</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在使用Python进行数据分析的过程中，我们一般会使用到的一些科学计算库有：Numpy，Scipy、matplotlib（用于生成图表），还有Ipython工具等。&lt;/p&gt;
+&lt;p&gt;我们可以在自己的机器上一个个安装这些库，也可以直接安装EPDFree(Enthought Py
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
 </feed>
